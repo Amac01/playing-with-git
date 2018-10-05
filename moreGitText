@@ -1,2 +1,6 @@
 My first line
+<<<<<<< HEAD
 Hey! I'm learning how to use GitHub!
+=======
+Hey, I'm learning how to use Github!
+>>>>>>> 1053d2d60b556bb189c9825140d696dc6fa50b7c
